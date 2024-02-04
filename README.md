@@ -3,11 +3,8 @@ Junior Frontend developer with more than 1 years of commertial experience. I hav
 In general worked with monolitic, microservice and serverless arthitectures. Big part of my acitities is open-source.
 
 <p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=liltekashik&show_icons=true&count_private=true"><img
-           height=150
-           src="https://github-readme-stats.vercel.app/api?username=liltekashik&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/liltekashik/github-readme-stats"><img height=150
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=liltekashik&layout=compact"/></a>
+   <a href="https://github-readme-stats.vercel.app/api?username=liltekashik&show_icons=true&count_private=true"><img height=150 src="https://github-readme-stats.vercel.app/api?username=liltekashik&show_icons=true&count_private=true"/></a>
+   <a href="https://github.com/liltekashik/github-readme-stats"><img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=liltekashik&layout=compact"/></a>
 </p>
 
 <p align='center'>
