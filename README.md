@@ -1,6 +1,5 @@
 # Hi, I'm Max 👋
-Junior Frontend developer with more than 1 years of commertial experience. I have excellent knowledge in backend development on Java.
-In general worked with monolitic, microservice and serverless arthitectures. Big part of my acitities is open-source.
+Junior Frontend Developer with over 2 years of hands-on experience in commercial projects. I bring strong expertise in crafting responsive and visually appealing user interfaces. Proficient in frontend technologies and frameworks such as HTML, CSS, JavaScript, and React.
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=liltekashik&show_icons=true&count_private=true"><img height=150 src="https://github-readme-stats.vercel.app/api?username=liltekashik&show_icons=true&count_private=true"/></a>
