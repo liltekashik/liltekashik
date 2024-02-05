@@ -19,24 +19,24 @@ Junior Frontend Developer with over 2 years of hands-on experience in commercial
 
 
 ### Key points
-*   creator of [Javarush Community](https://github.com/javarushcommunity) and [Template Repository](https://github.com/template-repository) organizations.
-*   creator and author of [romankh3](https://t.me/romankh3) telegram channel. Subscribe to recieve messages about my open-source activities.
-*   Write posts about software development.
-*   Currently working in [Epam Systems](https://www.linkedin.com/company/epam-systems/)
+*   Junior developer with less than one year of professional experience.
+*   Strong skills in frontend development.
+*   Involved in backend development using Java for educational projects.
+
 
 ## 🛠 Technical Stack
-*   Java/Kotlin/Groovy/COBOL languages
-*   MySQL, PostgreSQL, MongoDB, Aurora, DynamoDB, Flyway, Liquibase
-*   Spring Framework, Spring Boot, Spring Test, Spring Data Jpa, Spring Jdbc template, Spring Cloud Contract and so on...
-*   Camunda, Camunda Cockpit, Camunda Modeleter
-*   GitHub/GitLab/Gerrit/Bitbucket
+* Proficient in HTML, CSS, and JavaScript.
+* Familiarity with popular front-end libraries and frameworks such as React, Vue.js, or Angular.
+* Basic understanding of responsive web design principles.
+* Experience in version control using Git and platforms like GitHub.
+* Keen interest in user interface (UI) and user experience (UX) design.
+* Enthusiastic learner with a passion for creating visually appealing and user-friendly websites.
+* Currently expanding skills and knowledge through online courses and personal projects.
 
 ### My opensource projects
 
-*   [image-comparison](https://github.com/romankh3/image-comparison) - Published on Maven Central Java Library that compares 2 images with the same sizes and shows the differences visually by drawing rectangles. Some parts of the image can be excluded from the comparison.
-*   [JavaRush TelegramBot](https://github.com/javarushcommunity/javarush-telegrambot) - JavaRush Telegram bot from the community to the community
-*   [Skyscanner Flight API client](https://github.com/romankh3/skyscanner-flight-api-client) - Published on Maven Central Java Client for a Skyscanner Flight Search API hosted in Rapid API
-*   [Flights-monitoring](https://github.com/liltekashik/flights-monitoring) - Application for monitoring flight cost based on Skyscanner API
+*   [Figma-Portfolio](https://github.com/liltekashik/Figma-Portfolio) - This is my portfolio project created with figma on HTML and CSS languages.
+*   [Flower Store](https://github.com/liltekashik/flower-shop) - Flower store created with HTML and CSS with using JavaScript
 
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/liltekashik/github-profile-views-counter">
