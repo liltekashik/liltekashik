@@ -36,8 +36,9 @@ Junior Frontend Developer with over 2 years of hands-on experience in commercial
 ### My opensource projects
 
 *   [Figma-Portfolio](https://github.com/liltekashik/Figma-Portfolio) - This is my portfolio project created with figma on HTML and CSS languages.
-*   [Flower Store](https://github.com/liltekashik/flower-store) - Flower store created with HTML and CSS with using JavaScript
-*   [Snake Game](https://github.com/liltekashiksnake-game-2d) - Snake game created on JavaScript
+*   [Flower Store](https://github.com/liltekashik/flower-store) - Flower store created with HTML and CSS with using JavaScript.
+*   [Snake Game](https://github.com/liltekashik/snake-game-2d) - Snake game created on JavaScript.
+*   [Paralax WebSite](https://github.com/liltekashik/paralax-web) - WebSite with paralax effect.
 
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/liltekashik/github-profile-views-counter">
